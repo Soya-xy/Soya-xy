@@ -9,7 +9,7 @@ I am just a web front-end developer and I am glad to meet you!
 
 - ✅ JavaScript / TypeScript / ...
 - ✅ UNI-App / Taro / ...
-- ✅ Vue.js / jQuery / ...
+- ✅ Vue.js / Svelte / jQuery / ...
 - ✅ Node.js / PHP / Nuxt.js / PYTHON / ...
 - 📝 React Native / React.js
 
@@ -20,6 +20,6 @@ I am just a web front-end developer and I am glad to meet you!
 
 ### 🤪 Other
 
-[📌 My Blog - Soya](https://soya@xioayio.com)
+[📌 My Blog - Soya](https://www.xioayio.com)
 
 ---
