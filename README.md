@@ -20,6 +20,6 @@ I am just a web front-end developer and I am glad to meet you!
 
 ### 🤪 Other
 
-[📌 My Blog - Soya](https://www.xioayio.com)
+[📌 My Blog - Soya](https://xiaoyio.com)
 
 ---
