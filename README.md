@@ -22,4 +22,7 @@ I am just a web front-end developer and I am glad to meet you!
 
 [📌 My Blog - Soya](https://xiaoyio.com)
 
+### Music
+
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=287025475&show_percent=1&type=0)]([https://netease-recent-profile.vercel.app/?id=126764012&number=3](https://netease-recent-profile.vercel.app/?id=287025475&show_percent=1&type=0))
 ---
